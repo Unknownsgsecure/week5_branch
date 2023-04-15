@@ -6,5 +6,7 @@ int main(Void)
 
     printf("This is branch_test2\n");
 
+    printf("This is branch_test3\n");
+
     return 0;
 }
